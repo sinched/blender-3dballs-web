@@ -24,7 +24,7 @@ canvas {
 	transform: translate(-20%, -42%);
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 320px) {
 	.ball-text {
 		font-size: 2.5rem;
 	}
